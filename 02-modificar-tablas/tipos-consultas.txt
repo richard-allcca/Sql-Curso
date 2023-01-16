@@ -1,0 +1,18 @@
+TIPOS DE CONSULTAS
+---------------------------
+
+Estructura de la Base de Datos:
+
+- CREATE DATABASE -> Crear Base de Datos
+- DROP DATABASE   -> Eliminar Base de Datos 
+- CREATE TABLE    -> Crear Tablas
+- ALTER TABLE     -> Modificar tablas
+- DROP TABLE      -> Eliminar Tablas
+
+
+Consultando y Modificando los datos:
+
+- SELECT    -> Buscar
+- INSERT    -> Agregar
+- UPDATE    -> Modificar
+- DELETED   -> Eliminar

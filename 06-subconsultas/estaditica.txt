@@ -1,0 +1,7 @@
+SQL para Estadísticas
+
+Count(*)    - Cuenta cantida
+MAX(puntaje) - Devuelve el maxímo
+MIN(puntaje) - Devuelve el mínimo
+AVG(puntaje) - Devuelve el promedio
+SUM(precio)  - Devuelve el precio
